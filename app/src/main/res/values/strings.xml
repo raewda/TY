@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">Tsitaty Yarika</string>
+    <string name="title">То, что тебе сейчас необходимо знать:</string>
+    <string name="me">raewda production</string>
+
+    <string name ="onetsitata">...Надо было принять...</string>
+    <string name="twotsitata">...Надо было подать...</string>
+    <string name="threetsiata">...Я гигачад...</string>
+    <string name="fourtsitata">...Играем, парни, играем...</string>
+    <string name="fivetsitata">...Это база...</string>
+    <string name="sixtsitata">...Люди, в мышление которых не заложена победа, ничего не достигнут...</string>
+    <string name="seventsitata">...Я не сижу, я располагаюсь...</string>
+    <string name="eighttsitata">...Я фрик, забей...</string>
+    <string name="ninetsitata">...Важнее не результат, а желание его добиться...</string>
+    <string name="tentsitata">...Кукумбер...</string>
+    <string name="eleventsitata">...Я слишком высокомерен, чтобы относиться к кому-то снисходительно...</string>
+    <string name="twelvetsitata">...Лучше отстоять свою позицию и признать потом свою ошибку,
+        если ты окажешься неправ, чем остаться проигравшим по умолчанию...</string>
+    <string name="thirteentsitata">...Настоящая вера в себя не требует этого показывать,
+    она требует рвать на себе волосы, крушить и ломать, а также быть победителем во всём...</string>
+    <string name="fourteentsitata">...Проделанная работа не должна быть идеальной, работа должна быть...</string>
+    <string name="fifteentsitata">...Мой ум яснее, чем у всех вас...</string>
+    <string name="sixteentsitata">...Слово русское - слово сильное...</string>
+    <string name="seventeentsitata">...Я живу, чтобы жить нелогичностью...</string>
+    <string name="eighteentsitata">...Я не существовать быть без силы - я не могу быть бессильным...</string>
+    <string name="nineteentsitata">...Хочу быть диктором...</string>
+    <string name="twentytsitata">...Я не проигрываю, я отсрочиваю неизбежную победу...</string>
+    <string name="twentyonetsitata">...Вы шизики, вы зачем вопросы в пустоту кидаете?...</string>
+    <string name="twentytwotsitata">...Я хотел бы открыть окно, выпрыгнуть и бегать-кричать "ГОЙДА!"...</string>
+    <string name="twentythreetsitata">...Всё, отработал жопой на 5 автоматом, гордимся?...</string>
+    <string name="twentyfourtsitata">...Просто тотальный тарабан...</string>
+    <string name="twentyfivetsitata">...Женщины - зло, все, кроме мамы...</string>
+    <string name="twentysixtsitata">...Перед друзьями надо быть чистым...</string>
+    <string name="twentyseventsitata">...\"Проиграть жопу?\", я знаю об этом не понаслышке...</string>
+    <string name="twentyeighttsitata">...Я не показываю "уверенность", я - "уверенность"...</string>
+    <string name="twentyninetsitata">...Уверенность проверяется в "острых" моментах...</string>
+    <string name="thirtytsitata">...Лето - время для восхождения...</string>
+    <string name="thirtyonetsitata">...Я не могу принять другую истину...</string>
+    <string name="thirtytwotsitata">...Перестанешь бороться - сгинешь...</string>
+    <string name="thirtythreetsitata">...Что бы с тобой не происходило в момент, ты - это ты...</string>
+    <string name="thirtyfourtsitata">...Бережёного - теория вероятности бережёт...</string>
+    <string name="thirtyfivetsitata">...Не извиняйся, стань лучше...</string>
+    <string name="thirtysixtsitata">...Мне скучно жить *просто*...</string>
+    <string name="thirtyseventsitata">...Я могу не верить в себя, но у меня нет ни единой причины не верить в веру в меня...</string>
+    <string name="thirtyeighttsitata">...Мне нужно избавиться от своей человечности, чтобы стать тем мужчиной, которым я хочу стать...</string>
+    <string name="thirtyninetsitata">...В ситуации спокойной жизни, когда тебя никто не отвлекает, жизнь предоставляет самые широкие возможности...</string>
+    <string name="fortytsitata">...Ты сука, мегаплох...</string>
+    <string name="fortyonetsitata">...Я пытаюсь и пытаюсь, а когда устаю пытаться - начинаю делать...</string>
+    <string name="fortytwotsitata">...У самурая нет цели, есть только девушка, которая отвлекает его от террарии...</string>
+    <string name="fortythreetsitata">...В глазах моих врагов должен быть первобытный страх...</string>
+    <string name="fortyfourtsitata">...Я, кстати, театрал, вчера был в театре...</string>
+    <string name="fortyfivetsitata">...Люди, в мышление которых не заложена победа, ничего не достигнут...</string>
+    <string name="fortysixtsitata">...Мне кажется, мы стали забывать наших героев...</string>
+    <string name="fortyseventsitata">...Юбилейная пара по отсутствию пар...</string>
+    <string name="fortyeighttsitata">...Поэтому, ну можно умереть...</string>
+    <string name="fortyninetsitata">...Да, я исследую дыры гномов...</string>
+    <string name="fiftytsitata">...Ригхт нов (right now)...</string>
+    <string name="fiftyonetsitata">...Секс, шизофрения, дота, смерть?...</string>
+    <string name="fiftytwotsitata">...Чел, лечи шизу, даже если она у тебя не болит...</string>
+    <string name="fiftythreetsitata">...Настоящий духовный стержень показывается делом, а не словом...</string>
+    <string name="fiftyfourtsitata">...Не важно, какого размера дырка, главное - усилие...</string>
+    <string name="fiftyfivetsitata">...Меня ждёт ёбка 9-ю листами конспекта...</string>
+    <string name="fiftysixtsitata">...Только Hunt, качаться и смотреть аниме...</string>
+    <string name="fiftyseventsitata">...У меня тут нереальный секс с золотым шаром...</string>
+    <string name="fiftyeighttsitata">...Квинтэссенция жизни...</string>
+    <string name="fiftyninetsitata">...Иллюзия - это женщины...</string>
+    <string name="sixtytsitata">...Чего я хочу? ХОЧУ НЕ УМЕРЕТЬ ОТ ГОЛОДА...</string>
+    <string name="sixtyonetsitata">...Я тот самый легендарный чел, который ебашит курсовую за день...</string>
+    <string name="sixtytwotsitata">...Телепорт в хуйню, так сказать...</string>
+    <string name="sixtythreetsitata">...Ёбаная жара нахуй...</string>
+
+
+
+
+</resources>
+
